@@ -1,0 +1,11 @@
+.app2 {
+  display: flex;
+}
+main {
+  padding: 20px;
+  flex: 1;
+}
+.app{
+  background-color: #fafafa;
+}
+/*# sourceMappingURL=App.css.map */
